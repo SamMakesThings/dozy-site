@@ -1233,7 +1233,7 @@ img.store-badge {
     display: none;
   }
   div.store-btn {
-    padding: 0 0 30px 0;
+    padding: 0 0 40px 0;
   }
   div.hero-text {
     padding: 0 15px 0 15px
@@ -1248,7 +1248,7 @@ img.store-badge {
     padding-top: 10px;
   }
   .h1 {
-    margin: 115px 2px 47px 4px;
+    margin: 115px 2px 12px 4px;
     font-size: 36px;
     line-height: 50px;
     font-weight: 900;
@@ -1379,7 +1379,7 @@ img.store-badge {
     display: none;
   }
   div.store-btn {
-    padding: 0 0 25px 0;
+    padding: 40px 0 65px 0;
   }
   div.hero-text {
     padding: 0 6px 0 6px
