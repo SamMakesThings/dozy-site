@@ -1379,14 +1379,14 @@ img.store-badge {
     display: none;
   }
   div.store-btn {
-    padding: 40px 0 65px 0;
+    padding: 30px 0 55px 0;
   }
   div.hero-text {
     padding: 0 6px 0 6px
   }
 }
 
-@media screen and (max-width: 381px) {
+@media screen and (max-width: 400px) {
   img.store-badge {
     height: 48px;
   }
