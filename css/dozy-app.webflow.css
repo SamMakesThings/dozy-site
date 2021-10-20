@@ -1386,3 +1386,8 @@ img.store-badge {
   }
 }
 
+@media screen and (max-width: 381px) {
+  img.store-badge {
+    height: 48px;
+  }
+}
