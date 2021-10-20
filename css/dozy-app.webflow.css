@@ -1226,6 +1226,15 @@ img.store-badge {
   .icon-2 {
     display: none;
   }
+  .mobile-col {
+    display: block;
+  }
+  .desktop-col {
+    display: none;
+  }
+  div.store-btn {
+    padding: 0 15px 30px 15px;
+  }
 } 
 
 @media screen and (max-width: 479px) {
@@ -1360,12 +1369,6 @@ img.store-badge {
     display: block;
     font-size: 22px;
   }
-  .mobile-col {
-    display: block;
-  }
-  .desktop-col {
-    display: none;
-  }
   .menu-button {
     display: none;
   }
@@ -1373,7 +1376,7 @@ img.store-badge {
     display: none;
   }
   div.store-btn {
-    margin-bottom: 25px;
+    padding: 0 2px 25px 2px;
   }
 }
 
