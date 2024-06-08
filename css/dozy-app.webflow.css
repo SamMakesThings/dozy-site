@@ -1055,6 +1055,10 @@ img.store-badge {
   .button.download {
     width: 59%;
   }
+  .content-section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
   .content-section.video {
     margin-top: 0px;
   }
@@ -1137,6 +1141,7 @@ img.store-badge {
   }
   .form-container {
     width: 70%;
+    padding-bottom: 40px;
   }
   .iphone-container {
     padding-right: 40px;
