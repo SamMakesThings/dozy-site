@@ -1048,6 +1048,26 @@ img.store-badge {
   margin-left: 0px;
 }
 
+.update-bar {
+  background-color: #ff0000;
+  padding: 10px 0px 10px;
+  text-align: center;
+  text-decoration-color: #fff;
+}
+
+.update-bar-link {
+  color: #fff;
+  text-decoration: underline;
+  text-decoration-color: #fff;
+}
+
+.update-bar-text {
+  font-size: 16px;
+  color: #fff;
+  text-decoration-color: #fff;
+  margin: 0px;
+}
+
 @media screen and (max-width: 991px) {
   .button {
     width: 70%;
